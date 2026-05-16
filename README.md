@@ -1,14 +1,15 @@
 <h1>Hi, I'm Harune! <br/>Engineer</h1>
 
+<h2>LeetCode</h2>
+  - [SQL](https://github.com/hmatsukage7/LeetCodeSQL)
+
 <h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
 
-- <b>LeetCode</b>
-  - [SQL](https://github.com/hmatsukage7/LeetCodeSQL)
-    
-- <b>Projects<b/>
-  - SQL
-  - Python
-  - Power BI
+  - <b>SQL</b>
+
+  - <b>Python</b>
+
+  - <b>Power BI</b>
 
 <h2> Certifications: </h2>
 
