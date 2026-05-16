@@ -1,4 +1,5 @@
-<h1>Hi, I'm Harune! <br/>Engineer</h1>
+<h1>Hi, I'm Harune!</h1>
+Below are my works to showcase my skills:
 
 <h2>LeetCode</h2>
 
