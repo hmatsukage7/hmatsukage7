@@ -3,7 +3,7 @@
 <h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing SQL skills in LeetCode](https://github.com/hmatsukage7/LeetCodeSQL)
     
 - <b>Power BI</b>
 
