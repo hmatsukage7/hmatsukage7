@@ -2,13 +2,13 @@
 
 <h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
 
-- <b>SQL</b>
-  - [Practicing SQL skills in LeetCode](https://github.com/hmatsukage7/LeetCodeSQL)
-  - [Using real existing data](https://github.com/hmatsukage7/RealData)
+- <b>LeetCode</b>
+  - [SQL](https://github.com/hmatsukage7/LeetCodeSQL)
     
-- <b>Power BI</b>
-
-- <b>Python</b>
+- <b>Projects<b/>
+  - SQL
+  - Python
+  - Power BI
 
 <h2> Certifications: </h2>
 
