@@ -6,11 +6,8 @@
 
 <h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
 
-  - <b>SQL</b>
+  - [<b>Steam Games Dataset<b/>](https://github.com/hmatsukage7/Steam)
 
-  - <b>Python</b>
-
-  - <b>Power BI</b>
 
 <h2> Certifications: </h2>
 
