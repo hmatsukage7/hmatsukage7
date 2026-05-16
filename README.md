@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Harune! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+<h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
+
+- <b>SQL</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>Power BI</b>
+
+- <b>Python</b>
+
+<h2> Certifications: </h2>
+
 
 <!--
-**hmatsukage7/hmatsukage7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
