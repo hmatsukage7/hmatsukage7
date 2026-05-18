@@ -8,6 +8,7 @@ Below are my works to showcase my skills:
 <h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
 
   - [<b>Steam Games Dataset<b/>](https://github.com/hmatsukage7/Steam)
+  - [<b>Supermarket Sales Dataset<b/>](https://github.com/hmatsukage7/Supermarket)
 
 
 <h2> Certifications: </h2>
