@@ -1,17 +1,14 @@
-<h1>Hi, I'm Harune!</h1>
+# Hi, I'm Harune!
 Below are my works to showcase my skills:
 
-<h2>LeetCode</h2>
+## LeetCode
 
   - [SQL](https://github.com/hmatsukage7/LeetCodeSQL)
 
-<h2>Data Analyst/Business Intelligence Analyst Projects:</h2>
+## Data Analyst/Business Intelligence Analyst Projects:
 
   - [<b>Steam Games Dataset<b/>](https://github.com/hmatsukage7/Steam)
-  - [<b>Supermarket Sales Dataset<b/>](https://github.com/hmatsukage7/Supermarket)
-
-
-<h2> Certifications: </h2>
+  - [<b>Supermarket Sales Dataset<b/>](https://github.com/hmatsukage7/Supermarket
 
 
 <!--
