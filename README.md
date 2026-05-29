@@ -7,4 +7,5 @@ Below are my works to showcase my skills:
 
 ## Data Analyst/Business Intelligence Analyst Projects:
 
-  - [<b>Supermarket Sales Dataset<b/>](https://github.com/hmatsukage7/Supermarket)
+  - [<b>Supermarket Sales<b/>](https://github.com/hmatsukage7/Supermarket)
+  - [<b>Airbnb Open Data<\b>]()
